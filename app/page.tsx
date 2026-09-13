@@ -230,7 +230,7 @@ export default function Home() {
                 <div
                   className="absolute inset-0 opacity-95"
                   style={{
-                    backgroundImage: "url('/fondo.jpg')",
+                    backgroundImage: "url('/Fondo.jpg')",
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     filter: "saturate(0.75) contrast(1.05) brightness(0.85)",
